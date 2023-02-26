@@ -1,0 +1,15 @@
+body {
+    color: white;
+    background-color: black;
+}
+
+p {
+    font-size: x-large;
+}
+ol {
+    font-family: 'Courier New', Courier, monospace;
+    font: 100;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-style: italic
+}
